@@ -1,1 +1,2 @@
-balbasbb baksblaksb abs 
+ nuevo archivo 
+echo por el git.
